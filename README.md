@@ -1,1 +1,1 @@
-# A dice game
+# for a game driven by randomness
